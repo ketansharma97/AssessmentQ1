@@ -1,0 +1,8 @@
+Open cmd
+then write
+dotnet new mvc -n MyMvc
+press enter
+cd MyMvc/Views/Home
+then
+Start Index.cshtml
+then do changes
